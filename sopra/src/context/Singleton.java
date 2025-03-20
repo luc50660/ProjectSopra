@@ -27,6 +27,10 @@ public class Singleton {
         return sc.nextLine();
     }
 
+    /**
+     * @param msg message to print to the console
+     * @return String typed in the console
+     */
     public int inputInt(String msg)
     {
         Scanner sc = new Scanner(System.in);
