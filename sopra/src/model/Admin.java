@@ -1,4 +1,4 @@
-package sopra.model;
+package model;
 
 public class Admin extends Compte {
 

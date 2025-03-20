@@ -1,4 +1,4 @@
-package sopra.model;
+package model;
 
 import java.util.List;
 
@@ -27,6 +27,7 @@ public class PlanetSeed {
 		this.mineraiRestant = mineraiRestant;
 		this.planete = planete;
 	}
+
 
 
 

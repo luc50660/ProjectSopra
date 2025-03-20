@@ -1,4 +1,4 @@
-package sopra.model;
+package model;
 
 import java.util.HashMap;
 import java.util.Map;

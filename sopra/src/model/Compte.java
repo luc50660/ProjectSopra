@@ -1,6 +1,6 @@
-package sopra.model;
+package model;
 
-public class Compte {
+public abstract class Compte {
 
 	protected Integer id;
 	protected String login;
